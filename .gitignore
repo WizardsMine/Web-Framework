@@ -1,0 +1,5 @@
+/vendor
+/Storage/Session/*
+/Storage/Cache/*
+/Logs/*
+/.idea
