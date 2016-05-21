@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Wizard\Src\Http\App\Controller;
+use Wizard\Http\App\Controller;
 
 class HomeController extends Controller
 {

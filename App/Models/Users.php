@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use Wizard\Src\Modules\Database\Model;
+use Wizard\Modules\Database\Model;
 
 class Users extends Model
 {
