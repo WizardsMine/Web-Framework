@@ -8,6 +8,6 @@
   },
   "require": {
     "php": ">=7.0.0",
-    "wizardsmine/src": "dev-master"
+    "wizardsmine/src": "v1.0alpha"
   }
 }
