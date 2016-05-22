@@ -3,3 +3,4 @@
 /Storage/Cache/*
 /Logs/*
 /.idea
+composer.lock
