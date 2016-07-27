@@ -4,3 +4,4 @@
 /Logs/*
 /.idea
 composer.lock
+/.vscode
